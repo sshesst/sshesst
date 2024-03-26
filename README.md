@@ -1,5 +1,3 @@
-### 👋
-
 <pre>
 sshesst=# SELECT * FROM pg_settings;
 
